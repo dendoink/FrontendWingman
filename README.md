@@ -1,4 +1,4 @@
-<img style="max-width:50%; " align="center" src='./wingman.png' />
+<img src='./WINGMAN_HEAD_IMG.jpg' />
 <h1 align="center">
   Frontend Wingman
 </h1>
@@ -29,13 +29,13 @@
 
 ## 内容
 
-* [Chrome 调试技巧](./Chrome. README.md)
-* [React 学习指北](./React. README.md)
+* [Chrome 调试技巧](./Chrome.README.md)
+* [React 学习指北](./React.README.md)
 
 ## 贡献
 
-[参考贡献指南](./Contribution. README.md)
+[参考贡献指南](./Contribution.README.md)
 
 ## 协议
 
-[MIT](LICENSE). Copyright (c)
+[MIT](LICENSE).Copyright (c)
