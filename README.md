@@ -1,7 +1,4 @@
 <img src='./WINGMAN_HEAD_IMG.jpg' />
-<h1 align="center">
-  Frontend Wingman
-</h1>
 
 ## 什么是  Wingman？
 
