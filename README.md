@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content: center; width:100%; "><img style="width:50%; " align="center" src='./wingman.png' /></div>
+<img style="max-width:50%; " align="center" src='./wingman.png' />
 <h1 align="center">
   Frontend Wingman
 </h1>
@@ -29,12 +29,12 @@
 
 ## 内容
 
-* [Chrome 调试技巧](./Chrome.README.md)
-* [React 学习指北](./React.README.md)
+* [Chrome 调试技巧](./Chrome. README.md)
+* [React 学习指北](./React. README.md)
 
 ## 贡献
 
-[参考贡献指南](./Contribution.README.md)
+[参考贡献指南](./Contribution. README.md)
 
 ## 协议
 
