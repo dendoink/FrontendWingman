@@ -14,13 +14,17 @@
 
 ## 什么是 Frontend Wingman？
 
-这其实是一个我自己造的词，因为前端是一个很杂的技术方向，在学习和提高的过程中，需要去理解和学习的东西太多，太分散了。针对这样的情况，`Frontend Wingman` 能帮你，让你飞得更高，飞得更快。
+这其实是一个我自己造的词，因为前端是一个很杂的技术方向，在学习和提高的过程中，需要去理解和学习的东西太多，太分散了。针对这样的情况， `Frontend Wingman` 能帮你，让你飞得更高，飞得更快。
 
 ## 阅读
 
-| 微信扫码关注公众号，订阅更多精彩内容                                                                 | 加笔者微信进群与大厂大佬学习技(chui)术(niu)                       |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| <img src="https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/static/qrcode.gif" width="500px; " /> | <img src="https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/static/WECHAT_QR_CODE.jpeg" width="260px; " /> |
+* 微信扫码关注公众号，订阅更多干货
+
+<img src="https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/static/qrcode.gif" width="200px; " />
+
+* 加笔者微信进群与大厂大佬学技(chui)术(niu)
+
+<img src="https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/static/WECHAT_QR_CODE.jpeg" width="200px; ">
 
 [线上阅读更清晰](http://localhost:8080/)
 
@@ -35,4 +39,4 @@
 
 ## 协议
 
-[MIT](LICENSE). Copyright (c)
+[MIT](LICENSE).Copyright (c)
