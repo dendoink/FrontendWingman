@@ -1,5 +1,4 @@
-<img align="center" src='./wingman.png' />
-
+<div style="display:flex; justify-content: center; width:100%; "><img style="width:50%; " align="center" src='./wingman.png' /></div>
 <h1 align="center">
   Frontend Wingman
 </h1>
@@ -39,4 +38,4 @@
 
 ## 协议
 
-[MIT](LICENSE).Copyright (c)
+[MIT](LICENSE). Copyright (c)
