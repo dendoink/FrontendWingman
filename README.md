@@ -22,7 +22,7 @@
 
 <img src="https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/static/WECHAT_QR_CODE.jpeg" width="200px; ">
 
-[线上阅读更清晰](http://localhost:8080/)
+[线上阅读更清晰](https://www.frontendwingman.com/)
 
 ## 内容
 
