@@ -18,7 +18,7 @@
 
 * 微信扫码关注公众号，订阅更多干货
 
-<img src="https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/static/gif_qrcode.gif" width="200px; " />
+<img src="https://wechat-official-accounts-1300536089.cos.ap-shanghai.myqcloud.com/qrcode_we_account.jpg" width="200px; " />
 
 * 加笔者微信进群与大厂大佬学技(chui)术(niu)
 
