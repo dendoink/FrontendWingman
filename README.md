@@ -35,4 +35,4 @@
 
 ## 协议
 
-[MIT](LICENSE).Copyright (c)
+[MPL-2.0 License.Copyright (c)](https://github.com/dendoink/FrontendWingman/blob/master/LICENSE)
