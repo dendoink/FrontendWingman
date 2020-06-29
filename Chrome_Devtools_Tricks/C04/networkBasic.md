@@ -43,6 +43,7 @@ filter 的输入框接受字符串或正则表达式，对应显示匹配的请�
 ### 3. 多类型筛选
 
 当你能够筛选出一大堆的 log 记录，但是你只想看关于 JavaScript 和 CSS 的请求 log 怎么做呢？
+按住 `cmd` 然后鼠标左边选择你想筛选的类目：
 
 ![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C04/select.gif)
 

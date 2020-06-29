@@ -1,3 +1,8 @@
+---
+title: Chrome 版本
+open: true
+---
+
 ::: quote
 作为市场占有率最高的现代浏览器，Chrome 一直在更新。你的 Chrome 是哪个版本呢？
 :::

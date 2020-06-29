@@ -1,3 +1,7 @@
+---
+open: true
+---
+
 ## 为什么你要学会使用 Chrome
 
 谷歌浏览器（通常简称为 `Chrome` ）是由谷歌开发的网络浏览器。 它于 2008 年首次针对 `Microsoft Windows` 发布，后来移植到 `Linux` ， `macOS` ， `iOS` 和 `Android` 。 浏览器也是 `Chrome OS` 的主要组件，它可以作为 `Web` 应用的平台。[Chrome-维基百科](https://en.wikipedia.org/wiki/Google_Chrome)

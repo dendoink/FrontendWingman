@@ -1,3 +1,7 @@
+---
+open: true
+---
+
 ## 给看到这里的你
 
 不知道看到这里，你对这个系列的评价怎样呢？如果觉得对你有帮助，动动手指，[点这里](https://github.com/dendoink/FrontendWingman)给个 star 鼓励一下 : D 

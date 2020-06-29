@@ -31,7 +31,7 @@ $$('.theme-default-content p')
 
 ![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/code-snippet.gif)
 
-### 运行其他来源的代码块
+### 1. 运行其他来源的代码块
 
 当我在 `DevTools` 中预设了一组很棒的代码块以后，甚至都不需要打开 `Sources` 来运行它。
 
