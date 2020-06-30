@@ -22,7 +22,7 @@ Array.from(Array(150)).map(Math.random).forEach((vaule, index) => {
 
 条件成立就会暂停代码的执行：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/conditional_breakpoints.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/conditional_breakpoints.gif)
 
 ### 2. The ninja（忍者） `console.log` 
 
@@ -34,6 +34,6 @@ Array.from(Array(150)).map(Math.random).forEach((vaule, index) => {
 与其在你的源码的不同地方去添加 `console.log` / `console.table` / `console.time` 等等，不如你直接使用条件判断来将它们“连接”到 `Source` 面板中。
 这样它们就会一直执行，而不当不再需要它们的时候，在 `Breakpoints section` 点两下鼠标，就可以把所有的断点都移除，就像一堆忍者一样突然消失！
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/ninjalog.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/ninjalog.gif)
 
 > 这个技术在调试生产环境的问题时同样很有用，因为你通过这样的方式轻松将 `console logs` 插入到 `source` 里。

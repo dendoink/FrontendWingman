@@ -10,7 +10,7 @@
 
 你可以尝试一些相关操作(例如: `$1.appendChild($0)` )
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/about%2401.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/about%2401.gif)
 
 ### 2. `$` 和 `$$` 
 
@@ -20,7 +20,7 @@
 
 虽然从本质上来说 `Array.from(document.querySelectorAll('div')) === $$('div')` :
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/docQueryAll.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/docQueryAll.gif)
 
 但是 `document.querySelectorAll('div')` 和 `$$('div')` 哪一种方式更加优雅呢？
 
@@ -30,7 +30,7 @@
 
 `$_` 登场， `$_` 是对上次执行的结果的 **引用** ：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/math_random.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/math_random.png)
 
 ### 4. `$i` 
 
@@ -42,8 +42,8 @@
 
 * 安装 `Console Importer` 插件，先打开这个[不存在的网址](https://chrome.google.com/webstore/category/extensions):
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/install_Console_Importer.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/install_Console_Importer.gif)
 
 * 运行 `$i('dayjs')` 几秒钟后，你就可以畅玩 `dayjs` 了:
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/dayjs-demo.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/dayjs-demo.gif)

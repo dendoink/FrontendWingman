@@ -34,7 +34,7 @@ function getName(callback) {
 getName(v => console.log(v))
 ```
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/log_result01.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/log_result01.png)
 
 但是你可以直接传入 `console.log` 来接受所有的参数：
 
@@ -42,9 +42,9 @@ getName(v => console.log(v))
 getName(console.log)
 ```
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/log_result_02.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/log_result_02.png)
 
-但是当你有多个参数传入时，结果就变得不一样了：
+上面的效果看起来。好像没什么不一样？当你有多个参数传入时，结果就变得不一样了！
 
 ``` javascript
 function getName(callback) {
@@ -65,12 +65,12 @@ getName(v => console.log(v))
 getName(console.log)
 ```
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/log_result_03.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/log_result_03.png)
 
 ### 2. 使用实时表达式
 
-在本文形成的不久前， `DevTools` 在 `Console` 面板中引入了一个非常漂亮的附加功能，这是一个名为 `Live expression` 的工具
+`DevTools` 在 `Console` 面板中引入了一个非常漂亮的附加功能，这是一个名为 `Live expression` 的工具
 
 只需按下 "眼睛" 符号，你就可以在那里定义任何 `JavaScript` 表达式。 它会不断更新，表达的结果将永远存在 :-)：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/live-expression.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/live-expression.gif)

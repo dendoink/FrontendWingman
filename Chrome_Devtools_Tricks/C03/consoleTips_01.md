@@ -8,11 +8,11 @@
 
 一般的写法是这样：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/if-log.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/if-log.gif)
 
 没有任何问题，就是不够优雅，优雅的写法应该是怎样呢：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/console_assert.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/console_assert.gif)
 
 :::tip 敲黑板
 当我们传入的第一个参数为 **假** 时， `console.assert` 打印跟在这个参数后面的值。
@@ -32,7 +32,7 @@ const url = "www.frontendwingman.com"
 const chapter = "console"
 ```
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/logObject.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/logObject.png)
 
 光看输出的结果，我们很难判断打印的到底是哪个变量，为了让它变得更加易读，你可以打印一个对象：
 
@@ -46,7 +46,7 @@ console.log({name, url, chapter})
 原理就是 `ES6` 中[增强的对象字面量](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Object_literals) ，所以只要加上 `{}` 就完事儿了：
 :::
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/logObject01.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/logObject01.png)
 
 ### 3. `console.table` 
 
@@ -58,7 +58,7 @@ console.log({name, url, chapter})
 
 如果你觉得展示的列太多了，使用第二个参数，传入你想要展示的列的名字:
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/console_table.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/console_table.gif)
 
 :::tip 敲黑板
 对于后台而言，只有 `node` 版本大于 `10` 以上， `console.table` 才能起作用

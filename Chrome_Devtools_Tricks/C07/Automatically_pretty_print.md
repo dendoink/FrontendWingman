@@ -9,10 +9,10 @@
 ### 1. Automatically pretty print
 
 首先需要去设置里面打开这个选项：
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C07/pretty_print01.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C07/pretty_print01.gif)
 
 ### 2. 使用方式
 
 在新的标签页打开 `devtools` 你会发现代码已经自动格式化了：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C07/pretty_print02.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C07/pretty_print02.png)

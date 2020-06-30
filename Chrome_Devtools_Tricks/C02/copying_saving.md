@@ -6,7 +6,7 @@
 
 你可以通过全局的方法 `copy()` 在 `console` 里复制任何能拿到的资源（我们在后面还会提到这些资源）。例如 `copy($_)` 和 `copy($0)` 
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/copy&saving01.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/copy&saving01.gif)
 
 ### 2. `Store as global` （存储为一个全局变量）
 
@@ -17,21 +17,21 @@
 
 使用这些变量来操作对应的数据，就不用担心会影响到原来的值了:
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/copy&saving02.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/copy&saving02.gif)
 
 ### 3. 保存堆栈信息( `Stack trace` )
 
 大多数情况下，开发项目是一个团队协作，而**沟通的关键是，如何准确的描述问题** ， `console` 打印出来的堆栈的追踪信息，可以省去你和同事的很多沟通成本，我们可以直接把堆栈追踪信息保存为一个文件，而不只是发个截图给对方：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/save_log.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/save_log.gif)
 
 ### 4. 直接Copy HTML
 
 相信大家都知道，右击或者点击在 `HTML` 元素边上的省略号 (...) 就可以将当前元素复制到剪贴板中:
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/copy_01.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/copy_01.gif)
 
 
 但你不知道的是：古老的“CV大法”也可以!
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/copy_02.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/copy_02.gif)

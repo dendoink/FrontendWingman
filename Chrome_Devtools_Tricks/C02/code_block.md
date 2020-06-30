@@ -14,7 +14,7 @@ $$('.theme-default-content p')
 
 在 `Console` 面板运行这段代码，会得到这样的返回值:
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/code-block.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/code-block.png)
 
 这样的脚本，并不需要花费我太多的精力来写，但只是偶尔用用。所以我并不愿意每次都自己写。
 
@@ -29,7 +29,7 @@ $$('.theme-default-content p')
 
 大功告成！现在通过右击菜单或者快捷键： `[ctrl] + [enter]` 来运行你刚刚保存的脚本吧：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/code-snippet.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/code-snippet.gif)
 
 ### 1. 运行其他来源的代码块
 
@@ -37,8 +37,8 @@ $$('.theme-default-content p')
 
 * 先给它取个好记的名字：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/snippet01.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/snippet01.gif)
 
 * 使用 `Command Menu` 快捷键 （ `[command] + [p]` ） ：在它的输入框中输入 `!` ，就可以根据名字来筛选预设代码块：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/snippet02.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/snippet02.gif)

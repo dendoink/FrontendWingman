@@ -4,13 +4,13 @@
 
 ### 1.例子
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/async_console.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/async_console.gif)
 
 最后一次执行的代码，我们再修改的前后打印同一个对象，但打印的时候，为什么都是修改之后的值呢？
 
 如果你细心一点你就会发现右边有一个小小的 `i` 符号，把鼠标放上去就可以看到原因：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/just_now_tips.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/just_now_tips.png)
 
 这里告诉我们，这个是刚刚执行完代码的结果。
 

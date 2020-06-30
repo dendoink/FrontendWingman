@@ -10,13 +10,13 @@
 使用 `[ctrl]` + `[z]` ( `[⌘]` + `[z]` on Mac)撤销我们的任何改动。
 使用 `[ctrl]` + `[shift]` + `[z]` 重新编辑我们的任何修改。
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C05/element-edit.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/element-edit.gif)
 
 ### 2. `Shadow editor` 阴影编辑器
 
 听起来很不吉利(译者注：阴影哪里不吉利了！)，但是它也只是一个小部件而已。你可以通过在 `Style` 面板中点击靠近 `box-shadow` 属性或者 `text-shadow` 属性的 `阴影方形符号` 来打开它：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C05/element-shadow.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/element-shadow.gif)
 
 ### 3. `Cubic bezier` 贝塞尔曲线编辑器
 
@@ -24,7 +24,7 @@
 
 像之前说的 `Color picker` 和 `Shadow editor` 一样，直接点击边上的曲线符号：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C05/bezier.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/bezier.gif)
 
 :::warning 请注意
 如果使用简写的形式，但是没有定义这个值的话，是看不到这个曲线符号的

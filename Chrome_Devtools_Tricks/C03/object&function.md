@@ -25,7 +25,7 @@ const CEOS = [
 
 在 `DevTools` 里的 `queryObjects` 函数可以展示这些信息。
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/queryObjects.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/queryObjects.gif)
 
 ### 2. `monitor` 监控
 
@@ -40,7 +40,7 @@ const CEOS = [
   monitor(sum);
 ```
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/monitor.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/monitor.png)
 
 我们可以少写很多 `console.logs` !
 
@@ -62,7 +62,7 @@ const CEOS = [
 monitorEvents(window, "resize");
 ```
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/monitorEvents.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/monitorEvents.gif)
 
 
 你可以同时对 `resize` 还有 `scroll` 事件进行监听：
@@ -90,4 +90,4 @@ monitorEvents(window, ["resize", "scroll"])
 monitorEvents($0, "key");
 ```
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/monitorEvents_key.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/monitorEvents_key.gif)

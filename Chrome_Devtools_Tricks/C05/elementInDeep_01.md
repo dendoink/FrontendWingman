@@ -1,4 +1,3 @@
-
 ::: quote
 除了基本的功能，还有哪些好用却不为人知的技巧？
 :::
@@ -12,13 +11,13 @@
 * `color` 
 * `background-color` 
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C05/element_addrule.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/element_addrule.gif)
 
 ### 2. 在元素面板中展开所有的子节点
 
 一个一个点击 `▶` 展开太慢？右键选择 `expand recursively` ！：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C05/recursively.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/recursively.gif)
 
 ### 3. DOM 断点
 
@@ -39,14 +38,14 @@
 * `node removal` : 监听被选中的元素被 `移除` 的事件
 
    
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C05/dom_break.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/dom_break.png)
 
 页面重新加载时会记住断点。当你设置了一个或多个断点的时候，可能都忘了它们所标记的位置了。怎么找它们呢？：在 `Elements` 视图中有视觉提示，
 
 有时你添加了断点的元素被隐藏在一些折叠起来的父级元素中，不要担心 - 他们会在 `Element` 中用高亮展示出来:
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C05/dom_break_02.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/dom_break_02.png)
 
 `Sources` 中也有专用列表:
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C05/dom_%20break_01.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/dom_%20break_01.png)

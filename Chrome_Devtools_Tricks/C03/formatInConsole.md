@@ -8,7 +8,7 @@
 
 > 请注意: 在我们开始之前，需要在 `DevTools` 设置 (在 `DevTools` 的 `⋮` 下拉框找到设置，或者按下 `F1` ) 中把对应的选项打开:
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/Custom_Formatter.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/Custom_Formatter.gif)
 
 我们要定义的 `formatter` 是一个包含三个方法的对象：
 
@@ -42,7 +42,7 @@ window.devtoolsFormatters = [{
 
 在输出的时候，这个简单的 `formatter` 对于每一层嵌套，直接以 `7` 个空格的缩进打印这个对象。所以现在我们的输出看起来是这样：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/custom_formatter01.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/custom_formatter01.gif)
 
 ### 2. 应用实践
 
@@ -107,4 +107,4 @@ console.clown({
 
 `clown` 打印出来了什么东西呢？
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C03/custom_result.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/custom_result.png)

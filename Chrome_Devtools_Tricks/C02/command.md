@@ -9,11 +9,11 @@
 * 在 `Chrome` 的调试打开的情况下 按下 [ `Ctrl]` + `[Shift]` + `[P]` (Mac： `[⌘]` + `[Shift]` + `[P]` )
 * 或者使用 `DevTools` 的 `dropdown` 按钮下的这个选项:
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/dropdowm.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/dropdowm.png)
 
 下图中，我整理了可供选择的命令列表，归为几个部分：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/cmd_menu_section.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/cmd_menu_section.png)
 
 > `Chrome DevTools` 竟然有那么多强大的功能!
 
@@ -27,7 +27,7 @@
 
 一般来说这可是得使用浏览器插件才能做到的事情！
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/capture.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/capture.gif)
 
 ::: warning 注意
 **节点截图有时会失效**，全屏截图如果页面内容过多的话，可能会截图不全，建议大家谨慎使用。
@@ -49,11 +49,11 @@
 
 试试看：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/layout.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/layout.gif)
 
 要达到这一效果，你还可以用 dock 相关的命令，输入 `dock to left` 或者 `dock to bottom` 试试：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/Dock-to-button.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/Dock-to-button.gif)
 
 ### 4. 快速切换主题
 
@@ -61,4 +61,4 @@
 
 在 `Commands` 菜单中寻找与 `theme` 相关的选项，实现 `明亮` & `暗黑` 两种主题之间的切换：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/theme.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/theme.gif)

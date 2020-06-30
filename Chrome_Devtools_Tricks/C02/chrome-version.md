@@ -25,14 +25,14 @@ open: true
 
 在地址栏输入 `chrome://user-actions/` ，然后一顿操作之后，回到这个 tab 就可以看到所有用户的操作：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/user-action.gif)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/user-action.gif)
 
 ### 2. dino 小游戏
 
 代码写累了，想玩玩 Chrome 的小游戏 dino 吗？
 在地址栏输入 `chrome://dino/` 即可：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/dino.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/dino.png)
 
 ### 3. 查看实验中的功能
 
@@ -42,7 +42,7 @@ Chrome 的开发团队会做很多尝试，这里有很多正在试验中的功�
 
 我们可以通过这个面板来选择启动/禁用相对应的功能：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/experiments.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/experiments.png)
 
 ### 4. 查看所有功能
 
@@ -50,4 +50,4 @@ Chrome 的开发团队会做很多尝试，这里有很多正在试验中的功�
 
 `chrome://chrome-urls/` 来查看所有的功能：
 
-![](https://wingman-1300536089.cos.ap-shanghai.myqcloud.com/chrome/C02/listOfUrls.png)
+![](https://wingman-1300536089.file.myqcloud.com//chrome/C02/listOfUrls.png)
