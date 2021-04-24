@@ -18,7 +18,7 @@
 
 ![](https://wingman-1300536089.file.myqcloud.com//chrome/C06/689_showanimation_02.gif)
 
-可以选择播放速度的百分比[如果按下蓝色的循环按钮，动画就会循环播放]：
+可以选择播放速度的百分比[如果按下蓝色的播放按钮，动画就会重新播放]：
 
 ![](https://wingman-1300536089.file.myqcloud.com//chrome/C06/689_showanimation_05.gif)
 
