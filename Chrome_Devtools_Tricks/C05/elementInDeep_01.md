@@ -13,6 +13,8 @@
 
 ![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/element_addrule.gif)
 
+> 最新版本 `90.0.4430.85` 已经移除了这部分功能的支持。感谢读者 `三思` 的提醒。
+
 ### 2. 在元素面板中展开所有的子节点
 
 一个一个点击 `▶` 展开太慢？右键选择 `expand recursively` ！：
