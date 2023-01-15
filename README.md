@@ -14,7 +14,7 @@
 
 ## 阅读
 
-[线上阅读更清晰](https://www.frontendwingman.com/)
+[线上阅读更清晰](https://www.frontendwingman.com/) 目前域名备案有问题。过年期间会维护一下重新部署
 
 * 微信扫码关注公众号，订阅更多干货
 
