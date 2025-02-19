@@ -14,7 +14,9 @@
 
 ## 阅读
 
-[线上阅读更清晰](https://daydream-liu37a6xv-dendoinks-projects.vercel.app/) 域名已经更新啦
+[线上阅读更清晰](https://dendoink.com/blog/chrome-tricks/00-index) 域名已经更新啦
+
+
 
 * 微信扫码关注公众号，订阅更多干货
 
